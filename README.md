@@ -22,6 +22,6 @@ Hello! My name is Krishna Patel. I am pursuing B.Tech with Computer Science.
 
 I am interested in Tech, Design, as well as Coding! Currently learning Web development..  
 
-I am looking forward to learn and work on different projects, 
+Looking forward to work and learn from different projects, 
 
 Let's Connect!  
