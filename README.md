@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - Tools: 
 -->
 
-Hello! My name is Krishna Patel. I am pursuing B.Tech with Computer Science. 
+Hello! My name is Krishna Patel. I am pursuing B.Tech in Computer Science. 
 
-I am interested in Tech, Design, as well as Coding! Currently learning Web development..  
+I am interested in Tech, Design, Research and Development! Currently learning Web Development..  
 
 Looking forward to work and learn from different projects, 
 
