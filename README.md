@@ -25,3 +25,4 @@ I am interested in Tech, Design, Research and Development! Currently learning We
 Looking forward to work and learn from different projects, 
 
 Let's Connect!  
+🔗 www.linkedin.com/in/krishnaspatel18
