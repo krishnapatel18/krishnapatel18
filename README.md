@@ -36,6 +36,4 @@ My journey started from school as I learned different programming languages like
 I am interested in Tech, Design, and R&D! Looking forward to right opportunities to work, collaborate and learn from different projects, 
 Let's Connect!  
 
-Linkedin - [krishnaspatel18](www.linkedin.com/in/krishnaspatel18) 
-
-Email - [Mail](krishnasumanbhaipatel@gmail.com) NO SPAM! 
+Linkedin - [krishnaspatel18](www.linkedin.com/in/krishnaspatel18) NO SPAM! 
